@@ -14,3 +14,6 @@
 
 # Massive Wiki word count
 .vault-stats
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections
